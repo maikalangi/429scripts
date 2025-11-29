@@ -1,0 +1,17 @@
+{
+  "name": "fsm-demo",
+  "version": "1.0.0",
+  "description": "Lightweight FSM prototype server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node -e \"require('./src/server'); console.log('server loaded');\""
+  },
+  "keywords": [
+    "field-service",
+    "fsm",
+    "demo"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
